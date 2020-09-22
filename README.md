@@ -1,1 +1,1 @@
-How to prepare for for coding interview
+How to prepare for coding interview
