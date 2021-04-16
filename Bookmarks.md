@@ -1,5 +1,5 @@
 + [Coding interview university](https://github.com/jwasham/coding-interview-university)
-+ [The coding interview: What to expect](https://xiaoyunyang.github.io/post/the-coding-interview-what-to-expect/)
++ [The coding interview: what to expect](https://xiaoyunyang.github.io/post/the-coding-interview-what-to-expect/)
 + [Ace the coding interview every time](https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc)
 + [Coding interview books](http://codingforinterviews.com/books)
 + [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
